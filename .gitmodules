@@ -1,0 +1,6 @@
+[submodule ".zprezto"]
+	path = .zprezto
+	url = https://github.com/samaloney/prezto.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/samaloney/AstroNvim.git
